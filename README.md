@@ -1,6 +1,7 @@
 ## Squid Instagram Feed
 
-Listagem do feed da @squidapp com hover nas imagens, loader, tratamento de erros e link para a página no instagram. -[Squid Instagram Feed](https://squidfeed-teste.netlify.app/)
+Listagem do feed da @squidapp com hover nas imagens, loader, tratamento de erros e link para a página no instagram. 
+- [Squid Instagram Feed](https://squidfeed-teste.netlify.app/)
 
 ## Instalação e configuração.
 
