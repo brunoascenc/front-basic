@@ -7,7 +7,7 @@ Listagem do feed da @squidapp com hover nas imagens, loader, tratamento de erros
 
 Tenha instalado `npm` e `node` na sua máquina e faça um clone dessa branch:
 
-`git clone -b squid-frontend https://github.com/brunoascenc/front-basic/tree/squid-frontend`
+`git clone -b squid-frontend https://github.com/brunoascenc/front-basic.git`
 
 Entre na pasta do repositório e abra o arquivo `index.html`
 
